@@ -1,0 +1,6 @@
+<div id="content">
+  <h2>Use Example</h2>
+  <p>click the button below to test your app. Check your result in the console.</p>
+  <input type="submit" id="try" value="try"/>
+</div>
+
