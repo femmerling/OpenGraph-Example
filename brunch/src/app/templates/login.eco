@@ -1,5 +1,7 @@
+<div id="content">
 <h2>Welcome To OpenGraph Example</h2>
 <p>You need to login and authorize the app before using it</p>
 <div class="fb-login-button" scope="publish_stream,publish_actions">
         Login and Authorize Now
+</div>
 </div>

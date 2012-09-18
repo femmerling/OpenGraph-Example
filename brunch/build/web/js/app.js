@@ -11182,7 +11182,7 @@ window.jQuery = window.$ = jQuery;
   (function() {
     (function() {
     
-      __out.push('<h2>Welcome To OpenGraph Example</h2>\n<p>You need to login and authorize the app before using it</p>\n<div class="fb-login-button" scope="publish_stream,publish_actions">\n        Login and Authorize Now\n</div>\n');
+      __out.push('<div id="content">\n<h2>Welcome To OpenGraph Example</h2>\n<p>You need to login and authorize the app before using it</p>\n<div class="fb-login-button" scope="publish_stream,publish_actions">\n        Login and Authorize Now\n</div>\n</div>\n');
     
     }).call(this);
     
